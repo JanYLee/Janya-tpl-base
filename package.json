@@ -1,0 +1,8 @@
+{
+  "name": "janya-tpl-fe-base",
+  "version": "1.0.0",
+  "description": "my basic project template",
+  "main": "index.js",
+  "author": "janya lee",
+  "license": "MIT"
+}
